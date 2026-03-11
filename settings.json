@@ -8,8 +8,8 @@
   "server": {
     "ip": "WemmbuSmp6.aternos.me",
     "port": 56852,
-    "version": "",
-    "try-creative": false
+    "version": "1.21.10",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
